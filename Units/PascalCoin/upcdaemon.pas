@@ -80,10 +80,9 @@ Type
   public
   end;
 
+Var _FLog : TLog;
 
 implementation
-
-Var _FLog : TLog;
 
 { TPCDaemonThread }
 
